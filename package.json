@@ -1,0 +1,26 @@
+{
+  "name": "@joachimdalen/github-org-exists",
+  "version": "1.0.0",
+  "description": "Check if a GitHub organization exists",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joachimdalen/github-org-exists.git"
+  },
+  "author": "Joachim Dalen <joachim@dalenapps.no> (https://joachimdalen.no)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joachimdalen/github-org-exists/issues"
+  },
+  "homepage": "https://github.com/joachimdalen/github-org-exists#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "got": "^9.0.0"
+  }
+}
