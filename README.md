@@ -2,6 +2,8 @@
 
 Check if a GitHub org name is taken.
 
+[![Build Status](https://travis-ci.org/joachimdalen/github-org-exists.svg?branch=master)](https://travis-ci.org/joachimdalen/github-org-exists)
+
 ## Installation
 
 `npm install @joachimdalen/github-org-exists`
